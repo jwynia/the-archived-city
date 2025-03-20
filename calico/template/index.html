@@ -1,0 +1,39 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>The Archived City</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Load the Ink runtime and Calico framework -->
+    <script type="text/javascript" src="ink.js"></script>
+    <script type="text/javascript" src="calico.js"></script>
+    
+    <!-- Load the story content -->
+    <script type="text/javascript" src="story.js"></script>
+    
+    <!-- Load the project configuration -->
+    <script type="module" src="project.js"></script>
+</head>
+
+<body>
+    <div id="container">
+        <div id="header">
+            <div id="header-left">THE ARCHIVED CITY</div>
+            <div id="header-right">
+                <a href="javascript:void(0);" id="restart-button">restart</a> |
+                <a href="javascript:void(0);" id="save-button">save</a> |
+                <a href="javascript:void(0);" id="load-button">load</a> |
+                <a href="javascript:void(0);" id="theme-button">theme</a>
+            </div>
+        </div>
+        <div id="story"></div>
+        <div id="footer">
+            <div id="footer-content">
+                Built with <a href="https://github.com/elliotherriman/calico" target="_blank">Calico</a> for Ink
+            </div>
+        </div>
+    </div>
+</body>
+</html>

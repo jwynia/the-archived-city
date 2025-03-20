@@ -1,0 +1,214 @@
+body {
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: #333;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+}
+
+/* Container for the entire content */
+#container {
+    position: absolute;
+    display: block;
+    margin: 0;
+    padding: 0;
+    -webkit-overflow-scrolling: touch;
+    overflow: scroll;
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 10;
+}
+
+/* Header styling */
+#header {
+    background-color: white;
+    padding: 10px 20px;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 100;
+    box-sizing: border-box;
+}
+
+#header-left {
+    color: #8b7e66;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#header-right a {
+    color: #8b7e66;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+#header-right a:hover {
+    text-decoration: underline;
+}
+
+/* Story content */
+#story {
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 700px;
+    min-width: 60vw;
+    max-width: 80vw !important;
+    transition: opacity 1s ease;
+    padding: 0 1em;
+    line-height: 1.8;
+    font-size: 22px;
+}
+
+@media (hover:none), (hover:on-demand) {
+    #story {
+        max-width: 90%;
+    }
+}
+
+#story > *:first-child {
+    margin-top: 80px !important;
+}
+
+#story > *:last-child {
+    margin-bottom: 80px !important;
+}
+
+p {
+    margin-bottom: 1.5em;
+    font-size: 22px;
+    line-height: 1.8;
+}
+
+/* Links and choices */
+a {
+    text-decoration: none !important;
+    transition: all 0.3s ease;
+}
+
+.choice {
+    margin-bottom: 1em;
+    background-color: #f7f7f7;
+    border-left: 3px solid #8b7e66;
+    padding: 0.7em 1em;
+    border-radius: 3px;
+    transition: all 0.2s ease;
+    opacity: 1;
+    color: #4a4a4a;
+}
+
+.choice:hover {
+    background-color: #f0f0f0;
+    transform: translateX(3px);
+    opacity: 1;
+}
+
+.choice > a {
+    color: inherit;
+    display: block;
+    font-weight: 500;
+}
+
+.choice > a:hover {
+    color: #000;
+}
+
+.choice:before {
+    content: "▶ ";
+    color: #8b7e66;
+    font-size: 0.8em;
+}
+
+.chosen {
+    color: #000 !important;
+    opacity: 1 !important;
+    background-color: #f0f0f0;
+}
+
+/* Footer */
+#footer {
+    text-align: center;
+    padding: 20px;
+    color: #999;
+    font-size: 0.8em;
+    margin-top: 50px;
+}
+
+#footer a {
+    color: #8b7e66;
+    text-decoration: none;
+}
+
+#footer a:hover {
+    text-decoration: underline;
+}
+
+/* Dark theme */
+body.dark-theme {
+    background-color: #222;
+    color: #eee;
+}
+
+body.dark-theme #header {
+    background-color: #222;
+    border-bottom-color: #444;
+}
+
+body.dark-theme .choice {
+    background-color: #333;
+    border-left-color: #8b7e66;
+}
+
+body.dark-theme .choice a {
+    color: #ddd;
+}
+
+body.dark-theme .choice:hover {
+    background-color: #444;
+}
+
+body.dark-theme .chosen {
+    background-color: #444;
+    color: #fff !important;
+}
+
+/* Patch specific CSS */
+
+/* Preload */
+.progressbar {
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    background: #8b7e66;
+    width: 0%;
+    height: 3px;
+    z-index: 200;
+}
+
+/* End of story */
+.end {
+    font-style: italic;
+    text-align: center;
+    margin-top: 2em;
+    color: #777;
+}
