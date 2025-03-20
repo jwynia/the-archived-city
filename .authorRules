@@ -1,14 +1,122 @@
 # Author Rules
 
 ## Voice and Style
-- [Perspective preferences]
-- [Tense consistency rules]
-- [Sentence structure patterns]
-- **Elemental Genres Framework:** Use the Elemental Genres framework to structure interactive fiction, focusing on emotional experiences (Wonder, Idea, Adventure, Horror, Mystery, Thriller, Humor, Relationship, Drama, Issue, Ensemble).
-- **Genre Requirements:** Consider the specific requirements for each genre (setting, character needs, plot elements, themes).
-- **Secondary Genre Integration:** Enhance the primary genre with secondary genres (e.g., Wonder + Mystery, Horror + Relationship).
-- **Evaluation Matrix:** Rate story concepts based on emotional core, setting-genre alignment, character-genre fit, thematic resonance, novelty, conflict appropriateness, and secondary genre integration.
-- **Urban Fantasy Setting:** Consider elements like magical revelation, prevalence, beings, environment, system, and human/supernatural dynamics.
-- **Character Design (Urban Fantasy):** Consider background, societal function, relationship to magic, urban relationship, internal conflicts, and supernatural community position.
-- **Genre-Specific Urban Fantasy Applications:** Adapt each genre to the urban fantasy setting (e.g., Wonder: discovery of hidden magical world, Mystery: supernatural crimes).
-- **Urban-Magical Integration:** Consider how magic integrates with urban elements (infrastructure, economy, law enforcement, social spaces, transportation).
+- **Perspective preferences:** Second-person perspective ("you") for player character actions and experiences. Third-person for descriptions of the world and other characters.
+- **Tense consistency rules:** Present tense throughout.
+- **Sentence structure patterns:** Vary between short, impactful sentences for action and longer, more descriptive sentences for setting and atmosphere. Use sentence fragments sparingly for emphasis.
+- **Description density:** Heavier description for first introduction of locations and characters. More concise for familiar elements or during action sequences.
+- **Dialogue stylistic choices:** 
+  - Concordat officials speak formally with precise terminology
+  - Threshold Society members use more casual, sometimes metaphorical language
+  - Old Court entities speak in lyrical, sometimes cryptic patterns
+  - Chroniclers balance formal record-keeping language with personal observations
+- **Sensory details:** Include at least two sensory details (beyond visual) in each new location description. Emphasize magical perceptions as a distinct sense.
+
+## Character Naming Patterns
+- **Concordat Officials**: Use classical roots (Latin/Greek) with formal titles (e.g., "Magister Septimus Veil")
+- **Chroniclers**: Incorporate concepts of memory, observation, or record-keeping (e.g., "Elias Thorne", "Mira Lockwell")
+- **Threshold Society**: Use simplified, approachable names, often single-word (e.g., "Ash")
+- **Old Court Entities**: Use compound nature-based or conceptual names (e.g., "Lady Summer-In-Stone")
+- **First Generation Mages**: Use names with scientific or geographical references (e.g., "Leyden Cross")
+- **Second Generation Mages**: Use names that reflect magical function (e.g., "Cipher Nightwise")
+- **Old Lineage Mages**: Use names with natural elements and traditional patterns (e.g., "Thorn Blackoak")
+- **Naming New Characters**: Follow the Universal Contextual Character Naming Framework to ensure names reflect:
+  - Character's relationship to magic (pre/post Awakening)
+  - Social position within magical society
+  - Magical abilities or specialization
+  - Cultural background and affiliations
+
+## Choice Design Patterns
+- **Choice presentation format:** Present 2-4 choices per decision point, each representing a distinct approach or perspective.
+- **Choice text vs. result text patterns:** Choice text should reflect the character's intention or approach, while result text shows the outcome and consequences.
+- **Approach to meaningful vs. illusory choice:** Prefer meaningful choices that affect variables and story direction. Use illusory choices sparingly and only for character development or tone setting.
+- **Signaling choice significance:** 
+  - Major branch choices should be framed as philosophical approaches or methodologies
+  - Tactical choices should be framed as specific actions or techniques
+  - Relationship choices should be framed as emotional responses or attitudes
+- **Choice categorization:** When possible, align choices with elemental genres (Mystery, Wonder/Idea, Ensemble, Adventure, etc.) to create consistent emotional experiences.
+
+## Ink Syntax Preferences
+- **Weave vs. gather usage:** Use weave for conversation branches that quickly reconverge. Use gathers for major structural points where multiple paths come together.
+- **Divert patterns:** Use diverts (`->`) for scene transitions. Use thread diverts (`<-`) for inserting modular content.
+- **Variable naming conventions:** 
+  - Use snake_case for all variables
+  - Prefix relationship variables with `relationship_`
+  - Prefix knowledge variables with `knowledge_`
+  - Prefix aptitude variables with `magical_aptitude_`
+  - Use descriptive names that clearly indicate purpose
+- **Conditional logic patterns:** 
+  - Use `{condition: text}` for simple conditional text insertion
+  - Use multi-line conditionals with indentation for complex logic
+  - Prefer positive conditions over negative ones when possible
+- **Commenting approach:** 
+  - Use `// Comment` for technical notes about code function
+  - Use `/* Comment */` for narrative notes about content purpose
+  - Comment all variable initializations with their purpose and scale
+- **Whitespace and formatting:**
+  - Use blank lines between major sections
+  - Indent choice content consistently
+  - Group related choices together
+  - Separate scene knots with clear dividers
+- **File organization:**
+  - Use `main.ink` as the hub file that includes all other files
+  - Place all variable declarations in `variables.ink`
+  - Organize scenes in the `scenes/` directory with one file per scene
+  - Organize genre tracks in the `tracks/` directory with one file per track
+  - Place utility functions in the `utils/` directory
+  - Use INCLUDE statements in main.ink to bring everything together
+
+## Narrative Techniques
+- **Scene transition approaches:** Begin new scenes with a sensory detail that establishes atmosphere, followed by location context.
+- **Information revelation patterns:** Layer information, starting with observable details, then adding context, then revealing significance.
+- **Tension building methods:** Escalate tension through increasingly difficult choices, time pressure, and raising stakes.
+- **Time management approaches:** Use pacing variations - slower, more descriptive passages for exploration and character development, quicker pacing for action and tension.
+- **Flashback handling:** Use italics for brief memory flashes. Use separate clearly marked knots for extended flashbacks.
+- **Player acknowledgment patterns:** Reference previous significant choices to reinforce continuity and player agency.
+
+## Character Adaptation Patterns
+- **NPC response to player choices:** Characters should react differently based on relationship values and the player's previous choices.
+- **Relationship development approaches:** 
+  - Concordat relationships develop through demonstrations of competence and adherence to protocol
+  - Threshold relationships develop through shared values and trust-building
+  - Mentor relationships develop through respect and learning
+  - Rival relationships develop through competition and grudging acknowledgment
+- **Memory implementation for characters:** NPCs should reference past interactions based on relationship values and key decision points.
+- **Character voice consistency:** Maintain distinct speech patterns for each character type while allowing for emotional variation.
+
+## World-Revealing Strategies
+- **New element introduction:** Introduce new magical concepts first through observation, then explanation, then application.
+- **Exposition vs. demonstration:** Prefer demonstrating magical effects and cultural norms through scenes rather than direct exposition.
+- **Detail focus patterns:** Focus on details that reveal character, advance plot, or develop themes. Avoid purely decorative description.
+- **Environmental storytelling:** Use location descriptions to imply history and relationships without direct exposition.
+- **Magic system revelation:** Gradually reveal the distinctions between Concordat, Ancient, and Wild magic through contrasting experiences.
+
+## Thematic Emphasis
+- **Core themes:** 
+  - Knowledge vs. power (who controls information controls magic)
+  - Tradition vs. innovation (old vs. new magical approaches)
+  - Freedom vs. security (regulation vs. experimentation)
+  - Identity vs. community (individual magical expression vs. collective standards)
+- **Symbol usage:** Use recurring symbols tied to magical traditions:
+  - Geometric patterns for Concordat magic
+  - Organic, flowing patterns for Ancient magic
+  - Chaotic, fractal patterns for Wild magic
+- **Motif development:** Develop motifs of veils, archives, and thresholds throughout the narrative.
+- **Moral/ethical framework:** Present complex ethical questions without obvious "right" answers, allowing player choice to determine moral stance.
+
+## Testing Preferences
+- **Priority testing paths:** Test all major branch points to ensure narrative coherence across different paths.
+- **Edge case handling:** Ensure extreme variable states (very high or low relationship values) produce appropriate responses.
+- **Variable verification methods:** Check that variables are being properly modified by choices and affecting subsequent content.
+- **Balance adjustment approach:** Ensure no single path feels obviously "better" or "correct" compared to others.
+
+## Modular Development Approach
+- **Incremental implementation:** Develop one genre track at a time, ensuring it's fully functional before moving to the next.
+- **Scene completion:** Finish each scene completely before moving to the next, including all branches and variable tracking.
+- **Testing frequency:** Test after completing each scene to ensure proper flow and variable handling.
+- **Documentation updates:** Update memory-bank files whenever adding new content or making significant changes.
+- **File naming conventions:**
+  - Use descriptive names that indicate content (e.g., `scene_1.ink`, `mystery_track.ink`)
+  - Use underscores for spaces in filenames
+  - Keep filenames lowercase
+  - Use consistent numbering for sequential files (e.g., `scene_1.ink`, `scene_2.ink`)
