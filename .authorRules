@@ -4,60 +4,11 @@
 - [Perspective preferences]
 - [Tense consistency rules]
 - [Sentence structure patterns]
-- [Description density in different contexts]
-- [Dialogue stylistic choices]
-- [Second-person usage patterns]
-
-## Choice Design Patterns
-- [Choice presentation format]
-- [Number of options preferred]
-- [Choice text vs. result text patterns]
-- [Approach to meaningful vs. illusory choice]
-- [Signaling choice significance]
-
-## Ink Syntax Preferences
-- [Weave vs. gather usage]
-- [Divert patterns]
-- [Function implementation style]
-- [Tag usage conventions]
-- [Commenting approach]
-- [Variable naming conventions]
-- [Whitespace and formatting]
-
-## Narrative Techniques
-- [Scene transition approaches]
-- [Information revelation patterns]
-- [Tension building methods]
-- [Time management approaches]
-- [Flashback handling]
-- [Player acknowledgment patterns]
-
-## Character Adaptation Patterns
-- [How NPCs respond to player choices]
-- [Relationship development approaches]
-- [Memory implementation for characters]
-- [Character voice consistency]
-
-## World-Revealing Strategies
-- [How new elements are introduced]
-- [Exposition vs. demonstration]
-- [Detail focus patterns]
-- [Environmental storytelling techniques]
-
-## Thematic Emphasis
-- [How themes are reinforced]
-- [Symbol usage]
-- [Motif development]
-- [Moral/ethical framework]
-
-## Testing Preferences
-- [Priority testing paths]
-- [Edge case handling]
-- [Variable verification methods]
-- [Balance adjustment approach]
-
-## Specific Preferences
-- [Known likes/dislikes]
-- [Feedback patterns]
-- [Revision approaches]
-- [Feature priorities]
+- **Elemental Genres Framework:** Use the Elemental Genres framework to structure interactive fiction, focusing on emotional experiences (Wonder, Idea, Adventure, Horror, Mystery, Thriller, Humor, Relationship, Drama, Issue, Ensemble).
+- **Genre Requirements:** Consider the specific requirements for each genre (setting, character needs, plot elements, themes).
+- **Secondary Genre Integration:** Enhance the primary genre with secondary genres (e.g., Wonder + Mystery, Horror + Relationship).
+- **Evaluation Matrix:** Rate story concepts based on emotional core, setting-genre alignment, character-genre fit, thematic resonance, novelty, conflict appropriateness, and secondary genre integration.
+- **Urban Fantasy Setting:** Consider elements like magical revelation, prevalence, beings, environment, system, and human/supernatural dynamics.
+- **Character Design (Urban Fantasy):** Consider background, societal function, relationship to magic, urban relationship, internal conflicts, and supernatural community position.
+- **Genre-Specific Urban Fantasy Applications:** Adapt each genre to the urban fantasy setting (e.g., Wonder: discovery of hidden magical world, Mystery: supernatural crimes).
+- **Urban-Magical Integration:** Consider how magic integrates with urban elements (infrastructure, economy, law enforcement, social spaces, transportation).

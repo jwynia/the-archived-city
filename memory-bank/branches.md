@@ -1,36 +1,35 @@
 # Branches
 
 ## Main Branch Map
-- [Visual or textual representation of major branches]
-- [Key decision points]
-- [Branch merge points]
-- [Dead ends and failure states]
+- **Initial Choice (Scene 3):** Mystery, Wonder/Idea, Ensemble, Adventure tracks
+- **Mid-Game Convergence (Scene 7):** All tracks converge at the revelation of magic's true history.
+- **Second Major Choice (Scene 7):** Issue, Idea/Wonder, Relationship/Thriller, Drama tracks
+- [Visual representation to be created later]
 
 ## Critical Decisions
-- [Decision Point 1]
-  - Choice A:
-    - Immediate consequence: [description]
-    - Variables affected: [list]
-    - Branch path: [where it leads]
-  - Choice B:
-    - Immediate consequence: [description]
-    - Variables affected: [list]
-    - Branch path: [where it leads]
-
-## Branch-Specific Content
-- [Branch A]
-  - Unique characters: [who only appears here]
-  - Unique locations: [what can only be seen here]
-  - Unique revelations: [what can only be learned here]
-
-## Convergence Points
-- [Point 1]
-  - Incoming branches: [list]
-  - Adaptation mechanics: [how story adjusts]
-  - Continuity management: [how consistency is maintained]
-
-## Exclusive Content Tracking
-- [Mutual exclusivity group 1]
-  - Option A: [content details]
-  - Option B: [content details]
-  - Implications: [narrative impact]
+- **Scene 3: Initial Approach**
+  - Mystery: Investigate the source of the magic.
+  - Wonder/Idea: Understand how the magic works.
+  - Ensemble: Find others who perceive the patterns.
+  - Adventure: Access restricted areas with strong magical signatures.
+- **Scene 4M: Hidden Histories (Mystery Track)**
+  - Track down descendants of pre-Awakening mages.
+  - Research city planning archives.
+  - Perform a specialized attunement ritual.
+- **Scene 4W: Magical Properties (Wonder/Idea Track)**
+  - Develop a theoretical model of the magic.
+  - Create a ritual tool for access.
+  - Consult with magical creatures.
+- **Scene 4E: Seeing Eyes (Ensemble Track)**
+  - Pool magical resources for access.
+  - Build a secure network of allies.
+  - Establish a team decision-making framework.
+- **Scene 4A: Beyond Bounds (Adventure Track)**
+  - Explore abandoned ritual chambers.
+  - Explore restricted nexus points.
+  - Explore the private estate of first Awakening manifestations.
+- **Scene 7: The First Truth**
+  - Expose the Concordat's manipulation (Issue).
+  - Recover and spread understanding of original magic (Idea/Wonder).
+  - Protect the Keepers (Relationship/Thriller).
+  - Understand personal connection to original magic (Drama).

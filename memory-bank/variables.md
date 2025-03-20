@@ -1,39 +1,45 @@
 # Variables
 
 ## Player State Variables
-- [player_attribute]
-  - Purpose: [tracking function]
-  - Initial value: [starting state]
-  - Modification points: [where/how it changes]
-  - Narrative effects: [how it affects story]
-  - Display contexts: [when shown to player]
-
-## Story State Flags
-- [story_event_flag]
-  - Purpose: [what it tracks]
-  - Default state: [initial value]
-  - Toggle conditions: [when it changes]
-  - Dependent content: [what it controls]
-  - Testing notes: [verification approach]
-
-## Relationship Variables
-- [character_relationship]
-  - Scale: [value range]
-  - Initial state: [starting value]
-  - Influence points: [where player can change it]
-  - Thresholds: [values that trigger special content]
-  - Associated dialogue: [how it affects character speech]
-
-## Inventory System (if applicable)
-- [item_name]
-  - Acquisition methods: [how obtained]
-  - Use cases: [what it affects]
-  - Persistence: [when/if it's removed]
-  - Combination possibilities: [interactions with other items]
-
-## Game Mechanics
-- [mechanic_name]
-  - Implementation: [how it's tracked]
-  - Display: [how player sees it]
-  - Balance considerations: [design notes]
-  - Testing approach: [verification method]
+- **knowledge_ancient_magic:**
+  - Purpose: Tracks the protagonist's understanding of ancient magic.
+  - Initial value: 0
+  - Modification points: Discovering ancient texts, interacting with Keepers, experimenting with rituals.
+  - Narrative effects: Unlocks new dialogue options, reveals hidden locations, allows for different magical approaches.
+  - Display contexts: [To be determined]
+- **relationship_concordat:**
+  - Purpose: Tracks the protagonist's relationship with the Concordat.
+  - Initial value: Neutral
+  - Modification points: Following Concordat regulations, challenging their authority, cooperating with them.
+  - Narrative effects: Affects Concordat responses, opens or closes certain paths, influences ending possibilities.
+  - Display contexts: [To be determined]
+- **relationship_keepers:**
+  - Purpose: Tracks the protagonist's relationship with the Keepers.
+  - Initial value: Unaware
+  - Modification points: Interacting with Keepers, learning about their history, helping or hindering them.
+  - Narrative effects: Affects Keeper responses, reveals hidden information, influences ending possibilities.
+  - Display contexts: [To be determined]
+- **magical_aptitude_concordat:**
+  - Purpose: Tracks the protagonist's skill in Concordat magic.
+  - Initial value: Moderate
+  - Modification points: Training, practice, using Concordat magic in different situations.
+  - Narrative effects: Affects success rate of Concordat rituals, unlocks new magical abilities.
+  - Display contexts: [To be determined]
+- **magical_aptitude_ancient:**
+  - Purpose: Tracks the protagonist's skill in ancient magic.
+  - Initial value: Low
+  - Modification points: Experimenting with ancient rituals, learning from Keepers, attuning to ancient locations.
+  - Narrative effects: Affects success rate of ancient rituals, unlocks new magical abilities.
+  - Display contexts: [To be determined]
+- **access_magical_locations:**
+  - Purpose: Tracks which magical locations the protagonist can access.
+  - Initial value: [Starting locations]
+  - Modification points: Discovering new locations, gaining access through different means.
+  - Narrative effects: Opens up new areas for exploration, reveals hidden information, provides access to resources.
+  - Display contexts: [To be determined]
+- **magical_resources:**
+  - Purpose: Tracks the protagonist's available magical resources.
+  - Initial value: [Starting resources]
+  - Modification points: Finding resources, using resources in rituals, trading resources.
+  - Narrative effects: Limits the use of certain magic, influences crafting possibilities.
+  - Display contexts: [To be determined]
