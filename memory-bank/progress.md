@@ -53,6 +53,7 @@
     - Ensemble track: Seeing Eyes team building
     - Adventure track: Beyond Bounds exploration
 - Updated `activeKnot.md` to reflect Scene 2 as the current development focus
+- Added title "The Archived City" to main.ink for proper export title display
 
 ## In Progress
 - Completion of the four genre tracks (Mystery, Wonder/Idea, Ensemble, Adventure)
