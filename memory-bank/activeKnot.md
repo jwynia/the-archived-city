@@ -1,11 +1,11 @@
 # Active Knot
 
 ## Basic Information
-- Knot/Stitch ID: Scene_4_Genre_Tracks
+- Knot/Stitch ID: Scene_5_6_Remaining_Genre_Tracks
 - Parent Section: Initial Branch Sequence
 - Narrative Position: First Major Branch Development
-- Previous Knots: Scene_3_Initial_Approach
-- Next Knots: Scene_5_[Track-specific], leading to Scene_7_The_First_Truth
+- Previous Knots: Scene_4_[Track-specific]
+- Next Knots: Scene_7_The_First_Truth (Convergence Point)
 
 ## Knot Purpose
 - **Plot advancement:** Develop the four distinct approaches to investigating the anomalous magic, each following a different elemental genre.
@@ -52,9 +52,10 @@
 - **Key Scenes:** 
   - Scene 4M: Hidden Histories (Archives research)
   - Scene 5M: Clocktower (Encounter with spirit entity)
-  - Scene 6M: [To be implemented] (Historical revelation)
+  - Scene 6M: Conflicting Histories (Historical revelation)
 - **Socioeconomic Lens:** How historical knowledge has been controlled and distributed
-- **Scene Turn Focus:** From seeking information to discovering suppressed knowledge
+- **Scene Turn Focus:** From confusion/uncertainty to breakthrough understanding
+- **Status:** Complete
 
 ### Wonder Track
 - **Core Emotion:** Awe/Intellectual Fascination
@@ -65,6 +66,8 @@
   - Scene 6W: [To be implemented] (Breakthrough discovery)
 - **Socioeconomic Lens:** How access to magical education creates privilege
 - **Scene Turn Focus:** From theoretical understanding to practical insight
+- **Status:** Scene 4W implemented, Scenes 5W-6W to be developed
+- **Development Priority:** High (Next to implement)
 
 ### Ensemble Track
 - **Core Emotion:** Belonging/Collective Achievement
@@ -75,6 +78,8 @@
   - Scene 6E: [To be implemented] (Collective discovery)
 - **Socioeconomic Lens:** How communities overcome resource limitations through cooperation
 - **Scene Turn Focus:** From individual investigation to collective action
+- **Status:** Scene 4E implemented, Scenes 5E-6E to be developed
+- **Development Priority:** Medium
 
 ### Adventure Track
 - **Core Emotion:** Excitement/Danger
@@ -85,3 +90,29 @@
   - Scene 6A: [To be implemented] (Discovery and escape)
 - **Socioeconomic Lens:** How physical space is controlled and access restricted
 - **Scene Turn Focus:** From planning to active infiltration
+- **Status:** Scene 4A implemented, Scenes 5A-6A to be developed
+- **Development Priority:** Medium
+## Next Development Focus
+
+### Scene 5W: Experimental Testing (Wonder Track)
+- **Core Emotion:** Awe/Intellectual Fascination
+- **Opening Value:** Initial success (positive)
+- **Inciting Incident:** Unexpected complication in testing
+- **Progressive Complications:** Increasing difficulty in reconciling theory with practice
+- **Crisis Decision:** Whether to abandon theoretical framework or adapt it
+- **Climax:** Adaptation of approach leading to partial success
+- **Resolution:** Unexpected complication (negative)
+- **Key Elements to Implement:**
+  - Direct experience with ancient magic
+  - Contrast between magical systems
+  - Socioeconomic factors affecting access to resources
+  - Sensory descriptions that evoke wonder
+  - Connection to the broader truth about the Veil
+
+### Scene 7: The First Truth (Convergence)
+- **Core Emotion:** Revelation/Disillusionment
+- **Opening Value:** Partial understanding (positive)
+- **Turn:** Discovery of deliberate deception (negative)
+- **Resolution:** New determination based on truth (positive but changed)
+- **Development Status:** Planning stage
+- **Implementation Timeline:** After completion of all genre tracks

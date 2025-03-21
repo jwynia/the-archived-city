@@ -48,7 +48,7 @@
     - Ensemble track: Find others who perceive the patterns
     - Adventure track: Access restricted areas with strong signatures
 - Created initial sections for each genre track:
-    - Mystery track: Hidden Histories and Clocktower exploration
+    - Mystery track: Hidden Histories, Clocktower exploration, and Conflicting Histories
     - Wonder/Idea track: Magical Properties investigation
     - Ensemble track: Seeing Eyes team building
     - Adventure track: Beyond Bounds exploration
@@ -100,8 +100,7 @@
 - Updated activeKnot.md to focus on Scene 4 and the genre tracks
 
 ## In Progress
-- Completion of the four genre tracks (Mystery, Wonder/Idea, Ensemble, Adventure)
-  - Mystery Track: Adding hypothesis formation/testing, red herrings, and dramatic revelations
+- Completion of the remaining genre tracks (Wonder/Idea, Ensemble, Adventure)
   - Wonder Track: Creating breakthrough moments and direct experiences of ancient magic
   - Ensemble Track: Adding failure moments and showcasing complementary team skills
   - Adventure Track: Increasing physical danger and adding vivid sensory descriptions
@@ -110,7 +109,7 @@
 - Expansion of NPC response patterns based on player choices and social context
 
 ## Next Steps (Prioritized)
-1. Complete each genre track through Scene 6
+1. Complete the remaining genre tracks through Scene 6
    - Ensure each scene has a clear value shift
    - Add progressive complications before resolutions
    - Create dramatic turning points with higher stakes
@@ -150,12 +149,13 @@
 
 ### Mystery Track
 - **Core Emotion:** Curiosity
-- **Current Status:** Basic investigation structure implemented
-- **Needed Improvements:** 
-  - Add hypothesis formation and testing
-  - Create red herrings and false leads
-  - Add progressive revelations
-  - Implement "detective's gambit" moments
+- **Current Status:** Complete through Scene 6M (Conflicting Histories)
+- **Implemented Elements:**
+  - Hypothesis formation and testing in Scene 6M
+  - Red herrings and false leads through conflicting narratives
+  - Progressive revelations culminating in the truth about the Veil
+  - "Detective's gambit" ritual in Scene 6M
+  - Socioeconomic perspectives on knowledge access and history
 
 ### Wonder Track
 - **Core Emotion:** Awe/Intellectual Fascination
