@@ -94,6 +94,23 @@
 - **Development Priority:** Medium
 ## Next Development Focus
 
+### Character Integration
+- **Priority:** High
+- **Description:** Update existing scenes to reference player name, title, and pronouns
+- **Affected Files:**
+  - scenes/scene_1.ink
+  - scenes/scene_2.ink
+  - scenes/scene_3.ink
+  - tracks/mystery_track.ink
+  - tracks/wonder_track.ink
+  - tracks/ensemble_track.ink
+  - tracks/adventure_track.ink
+- **Implementation Approach:**
+  - Replace generic "you" references with personalized references where appropriate
+  - Add character-specific reactions based on background variables
+  - Ensure consistent use of chosen pronouns throughout
+  - Add title-specific dialogue variations for NPCs
+
 ### Scene 5W: Experimental Testing (Wonder Track)
 - **Core Emotion:** Awe/Intellectual Fascination
 - **Opening Value:** Initial success (positive)

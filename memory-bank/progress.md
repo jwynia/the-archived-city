@@ -1,6 +1,13 @@
 # Progress
 
 ## Completed
+- Implemented character creation system:
+    - Added player identity variables (name, surname, title, pronouns)
+    - Created Scene 0 for character creation and background selection
+    - Integrated socioeconomic background, magical education, and family history choices
+    - Set up variable initialization based on character choices
+    - Added character summary and transition to main story
+
 - Integrated core story information from `urban-fantasy-archived-city.md` into:
     - `worldbuilding.md`
     - `characters.md`
@@ -109,7 +116,9 @@
 - Expansion of NPC response patterns based on player choices and social context
 
 ## Next Steps (Prioritized)
-1. Complete the remaining genre tracks through Scene 6
+1. Update existing scenes to reference player name, title, and pronouns
+
+2. Complete the remaining genre tracks through Scene 6
    - Ensure each scene has a clear value shift
    - Add progressive complications before resolutions
    - Create dramatic turning points with higher stakes

@@ -1,3 +1,11 @@
+// Player Identity Variables
+VAR player_name = ""               // Player's chosen name
+VAR player_surname = ""            // Player's chosen surname
+VAR player_title = ""              // Professional title (e.g., "Junior Chronicler")
+VAR player_pronoun_subject = ""    // Subject pronoun (e.g., "he", "she", "they")
+VAR player_pronoun_object = ""     // Object pronoun (e.g., "him", "her", "them")
+VAR player_pronoun_possessive = "" // Possessive pronoun (e.g., "his", "her", "their")
+
 // Player Background Variables
 VAR socioeconomic_background = 0    // 1 = Privileged, 2 = Middle Class, 3 = Working Class
 VAR magical_education = 0           // 1 = Elite Academy, 2 = Standard Training, 3 = Self-Taught
