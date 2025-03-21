@@ -54,17 +54,66 @@
     - Adventure track: Beyond Bounds exploration
 - Updated `activeKnot.md` to reflect Scene 2 as the current development focus
 - Added title "The Archived City" to main.ink for proper export title display
+- Integrated systemic worldbuilding content from `systemic-worldbuilding.md` and `the-archived-city-systemic-worldbuilding-application.md` into memory bank files:
+    - Enhanced `worldbuilding.md` with:
+        - More detailed information about the Awakening as an engineered event
+        - Economic impacts of magic (new industries, disrupted sectors, resource shifts)
+        - Social structure changes (new elite class, knowledge as currency, institutional restructuring)
+        - Cultural evolution (language development, ethical shifts, artistic responses)
+        - Expanded faction descriptions with clearer motivations
+    - Enhanced `settings.md` with:
+        - Socioeconomic dimensions of magical geography
+        - Class-specific experiences in each district
+        - Enhanced descriptions of magical infrastructure
+        - More detailed information about magical regulation variations
+        - Black market and unauthorized magical zones
+    - Enhanced `characters.md` with:
+        - Detailed faction motivations and internal divisions
+        - Character archetypes representing different societal responses to magic
+        - Generational perspectives on magic
+        - Marginalized community perspectives
+        - Socioeconomic background options for the protagonist
+    - Enhanced `plotStructure.md` with:
+        - Regulatory paradoxes and identity contradictions
+        - Expanded critical revelations
+        - New subplots focused on socioeconomic tensions and class conflicts
+        - Thematic elements about regulation vs. freedom and knowledge vs. power
+    - Enhanced `branches.md` with:
+        - Socioeconomic context for each branch
+        - Regulatory implications of player choices
+        - Class-specific approaches to investigation
+        - Branch-specific content exploring different societal responses to magic
+        - Visual mermaid diagram of the branch structure
+    - Enhanced `variables.md` with:
+        - Player background variables including socioeconomic status
+        - Expanded knowledge variables for different aspects of magical society
+        - New relationship variables for different factions
+        - Ideological variables tracking stance on regulation and tradition
+        - Story state flags for key revelations
+    - Enhanced `activeKnot.md` with:
+        - Connections to broader societal themes
+        - Societal context section
+        - Class-specific reactions and approaches
+        - Enhanced theme connections to regulatory and identity issues
 
 ## In Progress
 - Completion of the four genre tracks (Mystery, Wonder/Idea, Ensemble, Adventure)
-- Development of protagonist customization options
-- Expansion of NPC response patterns based on player choices
+- Development of protagonist customization options based on socioeconomic background
+- Expansion of NPC response patterns based on player choices and social context
 - Implementation of Scene 7: The First Truth (convergence point)
 
 ## Next Steps
-1. Complete each genre track through Scene 6
-2. Implement Scene 7 convergence point
-3. Create a visual representation of the branch structure
-4. Enhance variable tracking with display contexts
-5. Implement protagonist customization options
-6. Add testing infrastructure to verify story flow
+1. Complete each genre track through Scene 6, incorporating socioeconomic perspectives
+2. Implement Scene 7 convergence point with systemic revelations about magical control
+3. Develop the second set of tracks (Issue, Idea/Wonder, Relationship/Thriller, Drama) with societal focus
+4. Implement protagonist background selection with class-specific starting variables
+5. Create dialogue variations based on socioeconomic background
+6. Develop Scene 10: The Thinning Veil as the second convergence point
+7. Implement variable display contexts to show player their current status
+8. Add testing infrastructure to verify story flow and variable tracking
+
+## Known Issues
+- Need to ensure consistency in how socioeconomic factors affect magical perception across all scenes
+- Need to balance systemic worldbuilding exposition with narrative pacing
+- Need to implement the new variables in the variables.ink file
+- Need to update scene files to reflect the enhanced worldbuilding

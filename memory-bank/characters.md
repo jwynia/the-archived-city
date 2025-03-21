@@ -40,19 +40,152 @@ Following the Universal Contextual Character Naming Framework, character names i
   - Potential arcs: Discovering the truth about the Awakening, choosing a side (Concordat, Keepers, etc.), developing magical abilities
   - Voice patterns: [To be determined based on player choices and narrative style]
   - Key relationships: Mentor (Elias Thorne), Rival (Mira Lockwell), Concordat officials, Threshold Society contacts, Old Court entities
+  - Socioeconomic options:
+    - **Privileged Background:** Access to premium magical education, family connections to Concordat, comfortable lifestyle but potential disconnection from reality of magical inequality
+    - **Middle Class Background:** Competitive path to Chronicler position, student loans for magical education, balancing professional advancement with personal ethics
+    - **Working Class Background:** Exceptional talent that earned rare scholarship, pressure to succeed, unique perspective on magical regulation's effects on ordinary citizens
 
+## Faction Motivations and Conflicts
+
+### The Concordat
+- **Core Motivation:** Maintain stability and control over magical forces to prevent chaos
+- **Internal Divisions:**
+  - **True Believers:** Genuinely concerned about unregulated magic's dangers
+  - **Power Consolidators:** Using regulation to maintain elite status and privilege
+  - **Pragmatists:** Focused on practical management rather than ideology
+- **Methods:** Licensing, monitoring, standardization, suppression of alternative magical systems
+- **Conflicts:** Struggling with increasing Veil instability, internal corruption, growing resistance
+
+### Threshold Society
+- **Core Motivation:** Democratize magical knowledge and break Concordat monopoly
+- **Internal Divisions:**
+  - **Idealistic Knowledge-Sharers:** Focus on education and accessibility
+  - **Revenge-Focused Revolutionaries:** Seek to dismantle Concordat power by any means
+  - **Magical Innovators:** Primarily interested in developing new magical approaches
+- **Methods:** Underground education, black market enchantments, information networks, public demonstrations
+- **Conflicts:** Balancing security with openness, preventing dangerous magic use, managing diverse membership
+
+### Keepers of the First Veil
+- **Core Motivation:** Preserve ancient magical traditions and prepare for the Veil's continued thinning
+- **Internal Divisions:**
+  - **Traditionalists:** Focus on maintaining original practices unchanged
+  - **Adaptationists:** Blend ancient knowledge with modern understanding
+  - **Revelationists:** Believe time has come to share all hidden knowledge
+- **Methods:** Secret training, hidden archives, infiltration of institutions, ritual maintenance
+- **Conflicts:** Whether to reveal themselves fully, how to approach Concordat, succession challenges
+
+### The Mundane Administration
+- **Core Motivation:** Integrate magic into existing governance while maintaining authority
+- **Internal Divisions:**
+  - **Magic-Skeptics:** Minimize magical influence on governance
+  - **Opportunists:** Use magical connection for personal/political gain
+  - **Reformers:** Seek to create truly integrated magical-mundane systems
+- **Methods:** Legislation, taxation, public services, diplomatic relations with magical entities
+- **Conflicts:** Jurisdictional disputes with Concordat, managing public perception, addressing magical inequality
+
+### Old Courts
+- **Core Motivation:** Maintain ancient power structures and supernatural hierarchies
+- **Internal Divisions:**
+  - **Isolationists:** Wish to remain separate from human affairs
+  - **Interventionists:** Actively manipulate human magical development
+  - **Traditionalists:** Adhere to ancient pacts and boundaries
+- **Methods:** Subtle influence, magical contracts, territorial control, manipulation of Veil boundaries
+- **Conflicts:** Adapting to changing magical landscape, internal power struggles, human encroachment
 
 ## Non-Player Characters
-- **Elias Thorne:** Senior Chronicler, protagonist's mentor, potential connection to Keepers and Concordat
-- **Mira Lockwell:** Rival Chronicler, ambitious, potential political connections
-- **Concordat Magister Septimus Veil:** High-ranking Concordat official
+
+### Concordat Representatives
+- **Magister Septimus Veil:** High-ranking Concordat official
+  - Role: Oversees Chronicler division, represents Concordat authority
+  - Key traits: Precise, authoritative, politically savvy
+  - Motivation: Believes in Concordat's mission but harbors doubts about certain policies
+  - Knowledge state: Aware of some Concordat deceptions but not their full extent
+
+- **Director Aurelia Constance:** Head of Veil Engineering
+  - Role: Manages magical infrastructure maintenance
+  - Key traits: Technically brilliant, pragmatic, overworked
+  - Motivation: Preventing magical disasters, advancing engineering knowledge
+  - Knowledge state: Understands the technical flaws in Concordat magic but not their historical context
+
+### Chronicler Colleagues
+- **Elias Thorne:** Senior Chronicler, protagonist's mentor
+  - Role: Guides protagonist, provides historical context
+  - Key traits: Wise, cautious, conflicted
+  - Motivation: Protecting protagonist while preserving important knowledge
+  - Knowledge state: Knows much more about pre-Awakening magic than he reveals
+  - Relationship states: Can become closer mentor or more distant depending on player choices
+
+- **Mira Lockwell:** Rival Chronicler
+  - Role: Professional competitor, potential ally or obstacle
+  - Key traits: Ambitious, detail-oriented, politically connected
+  - Motivation: Professional advancement, uncovering secrets for personal gain
+  - Knowledge state: Has discovered anomalies in the records but interprets them differently
+  - Relationship states: Can develop into rivalry, alliance, or romance depending on player choices
+
+### Threshold Society Members
 - **Ash:** Threshold Society contact
-- **Lady Summer-In-Stone:** Old Court representative
-- **Leyden Cross:** First-generation mage
-- **Cipher Nightwise:** Second-generation mage specializing in concealment magic
+  - Role: Initial connection to underground magical community
+  - Key traits: Charismatic, idealistic, secretive
+  - Motivation: Spreading magical knowledge, recruiting talented individuals
+  - Knowledge state: Knows Threshold operations but not all their secrets
+  - Relationship states: Trust can be built or broken through player actions
+
+- **Vera Spark:** Magical innovator
+  - Role: Creates experimental enchantments, teaches alternative magical approaches
+  - Key traits: Creative, enthusiastic, sometimes reckless
+  - Motivation: Pushing magical boundaries, proving Concordat limitations
+  - Knowledge state: Deep practical knowledge but limited historical understanding
+
+### Keeper Representatives
 - **Thorn Blackoak:** Member of an old magical lineage
-  - Role in story: [To be determined based on chosen narrative path]
-  - Key traits: [To be determined]
-  - Relationship states: [To be determined]
-  - Response patterns: [To be determined]
-  - Knowledge states: [To be determined]
+  - Role: Potential mentor in ancient magic
+  - Key traits: Reserved, knowledgeable, observant
+  - Motivation: Evaluating protagonist's worthiness to learn Keeper secrets
+  - Knowledge state: Extensive knowledge of pre-Awakening magic and history
+  - Relationship states: Can become mentor, ally, or remain distant observer
+
+- **Whisper-in-Shadows:** Ancient entity aligned with Keepers
+  - Role: Provides cryptic guidance and historical context
+  - Key traits: Enigmatic, ancient, perceives reality differently
+  - Motivation: Preparing for next phase of Veil thinning
+  - Knowledge state: Remembers the world before the Veil was created
+
+### Generational Perspectives
+
+- **Leyden Cross:** First-generation mage (Pre-Awakening Generation)
+  - Role: Represents adaptation struggles of those who gained magic as adults
+  - Key traits: Practical, somewhat conservative in magical approach
+  - Motivation: Stability and safety in magical practice
+  - Knowledge state: Experienced the transition firsthand but lacks historical context
+
+- **Cipher Nightwise:** Second-generation mage (First Fully Magical Generation)
+  - Role: Represents those who grew up with magic as normal
+  - Key traits: Innovative, takes magic for granted, pushes boundaries
+  - Motivation: Expanding magical possibilities, challenging restrictions
+  - Knowledge state: Excellent technical knowledge but limited historical perspective
+
+- **Iris Veildream:** Current youth (Current Youth)
+  - Role: Represents newest generation questioning official narratives
+  - Key traits: Skeptical, digitally connected, magically experimental
+  - Motivation: Uncovering truth about magic's history, finding authentic identity
+  - Knowledge state: Fragmentary but growing awareness of magic's hidden history
+
+### Marginalized Perspectives
+
+- **Elder Moonsong:** Indigenous magical practitioner
+  - Role: Represents traditional knowledge previously dismissed
+  - Key traits: Patient, deeply connected to land-based magic, diplomatic
+  - Motivation: Preserving traditional practices, gaining recognition for indigenous magical contributions
+  - Knowledge state: Deep understanding of local magical patterns predating Concordat system
+
+- **Darius Weft:** Disabled magical innovator
+  - Role: Represents intersection of disability and magical accommodation
+  - Key traits: Resourceful, determined, politically aware
+  - Motivation: Creating more accessible magical systems, challenging Concordat's standardization
+  - Knowledge state: Specialized knowledge of adaptive magical techniques
+
+- **Zephyr:** Non-binary Veil specialist
+  - Role: Represents magical identity expression possibilities
+  - Key traits: Perceptive, fluid in approach, community-oriented
+  - Motivation: Creating spaces where magical and personal identity can be freely explored
+  - Knowledge state: Unique insights into Veil's relationship with identity and perception
