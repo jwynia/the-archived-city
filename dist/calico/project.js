@@ -9,6 +9,7 @@ import "./patches/markdowntohtml.js";
 import "./patches/scrollafterchoice.js";
 import "./patches/autosave.js";
 import "./patches/stepback.js";
+import "./patches/restart-fix.js";
 
 // -----------------------------------
 // Keyboard shortcuts for choices
