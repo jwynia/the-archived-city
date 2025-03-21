@@ -22,48 +22,52 @@ What you discover next will force you to question everything—the history of ma
 === character_selection ===
 ## CHOOSE YOUR CHRONICLER
 
-+ [MARINER VOSS] 
+**MARINER VOSS**  
+Former naval officer whose shipboard service was interrupted by sudden magical aptitude. Disciplined and methodical, with connections to maritime commerce and an outsider's perspective on Nexus City's magical establishment.
+
+**ELIZA THORNE**  
+Third-generation Chronicler from a respected magical family. Raised with the expectation of maintaining the system, now troubled by discoveries that challenge her family's legacy and her own carefully constructed identity.
+
+**ASH REEVE**  
+Self-taught magical practitioner from the city's underprivileged Eastern Ward. Recruited to the Chroniclers for your unusually strong perception abilities, navigating a system designed to exclude people from your background.
+
+**CIPHER WHITLOCK**  
+Former data analyst whose logical approach to magic has made you both valued and viewed with suspicion. Your pattern-recognition abilities exceed your magical talent, letting you see connections others miss.
+
++ [Select MARINER VOSS] 
     ~ player_name = "Mariner"
     ~ player_surname = "Voss"
     ~ player_pronoun_subject = "they"
     ~ player_pronoun_object = "them"
     ~ player_pronoun_possessive = "their"
     ~ player_title = "Field Chronicler"
-    
-    Former naval officer whose shipboard service was interrupted by sudden magical aptitude. Disciplined and methodical, with connections to maritime commerce and an outsider's perspective on Nexus City's magical establishment.
     -> character_confirmation
 
-+ [ELIZA THORNE] 
++ [Select ELIZA THORNE] 
     ~ player_name = "Eliza"
     ~ player_surname = "Thorne"
     ~ player_pronoun_subject = "she"
     ~ player_pronoun_object = "her"
     ~ player_pronoun_possessive = "her"
     ~ player_title = "Associate Chronicler"
-    
-    Third-generation Chronicler from a respected magical family. Raised with the expectation of maintaining the system, now troubled by discoveries that challenge her family's legacy and her own carefully constructed identity.
     -> character_confirmation
 
-+ [ASH REEVE] 
++ [Select ASH REEVE] 
     ~ player_name = "Ash"
     ~ player_surname = "Reeve"
     ~ player_pronoun_subject = "they"
     ~ player_pronoun_object = "them"
     ~ player_pronoun_possessive = "their"
     ~ player_title = "Junior Chronicler"
-    
-    Self-taught magical practitioner from the city's underprivileged Eastern Ward. Recruited to the Chroniclers for your unusually strong perception abilities, navigating a system designed to exclude people from your background.
     -> character_confirmation
 
-+ [CIPHER WHITLOCK] 
++ [Select CIPHER WHITLOCK] 
     ~ player_name = "Cipher"
     ~ player_surname = "Whitlock"
     ~ player_pronoun_subject = "he"
     ~ player_pronoun_object = "him"
     ~ player_pronoun_possessive = "his"
     ~ player_title = "Research Chronicler"
-    
-    Former data analyst whose logical approach to magic has made you both valued and viewed with suspicion. Your pattern-recognition abilities exceed your magical talent, letting you see connections others miss.
     -> character_confirmation
 
 === character_confirmation ===
