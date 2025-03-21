@@ -11,6 +11,14 @@ INCLUDE tracks/wonder_track.ink
 INCLUDE tracks/ensemble_track.ink
 INCLUDE tracks/adventure_track.ink
 
+// Prepare for future additions
+// INCLUDE scenes/scene_7.ink
+// INCLUDE tracks/issue_track.ink
+// INCLUDE tracks/idea_wonder_track.ink
+// INCLUDE tracks/relationship_track.ink
+// INCLUDE tracks/drama_track.ink
+// INCLUDE scenes/scene_10.ink
+
 // ===================================
 // Story Entry Point
 // ===================================

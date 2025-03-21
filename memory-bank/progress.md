@@ -95,25 +95,91 @@
         - Societal context section
         - Class-specific reactions and approaches
         - Enhanced theme connections to regulatory and identity issues
+- Analyzed current implementation for elemental genre effectiveness and scene turns
+- Updated variables.ink to include all planned variables from variables.md
+- Updated activeKnot.md to focus on Scene 4 and the genre tracks
 
 ## In Progress
 - Completion of the four genre tracks (Mystery, Wonder/Idea, Ensemble, Adventure)
+  - Mystery Track: Adding hypothesis formation/testing, red herrings, and dramatic revelations
+  - Wonder Track: Creating breakthrough moments and direct experiences of ancient magic
+  - Ensemble Track: Adding failure moments and showcasing complementary team skills
+  - Adventure Track: Increasing physical danger and adding vivid sensory descriptions
+- Strengthening scene turns in all existing content
 - Development of protagonist customization options based on socioeconomic background
 - Expansion of NPC response patterns based on player choices and social context
-- Implementation of Scene 7: The First Truth (convergence point)
 
-## Next Steps
-1. Complete each genre track through Scene 6, incorporating socioeconomic perspectives
-2. Implement Scene 7 convergence point with systemic revelations about magical control
-3. Develop the second set of tracks (Issue, Idea/Wonder, Relationship/Thriller, Drama) with societal focus
-4. Implement protagonist background selection with class-specific starting variables
-5. Create dialogue variations based on socioeconomic background
-6. Develop Scene 10: The Thinning Veil as the second convergence point
-7. Implement variable display contexts to show player their current status
-8. Add testing infrastructure to verify story flow and variable tracking
+## Next Steps (Prioritized)
+1. Complete each genre track through Scene 6
+   - Ensure each scene has a clear value shift
+   - Add progressive complications before resolutions
+   - Create dramatic turning points with higher stakes
+   - Incorporate socioeconomic perspectives in each track
+
+2. Implement Scene 7: The First Truth (convergence point)
+   - Create consistent revelation regardless of path taken
+   - Ensure emotional payoff matches the buildup
+   - Implement second major choice point with four new tracks
+
+3. Develop protagonist background selection
+   - Create class-specific starting variables
+   - Implement dialogue variations based on background
+   - Develop variable display contexts
+
+4. Develop the second set of tracks
+   - Issue Track: Exposing the Concordat's manipulation
+   - Idea/Wonder Track: Recovering ancient magical understanding
+   - Relationship/Thriller Track: Protecting the Keepers
+   - Drama Track: Understanding personal connection to magic
+
+5. Implement Scene 10: The Thinning Veil
+   - Create second convergence point
+   - Show class-based experiences of magical instability
+
+6. Add testing infrastructure to verify story flow and variable tracking
 
 ## Known Issues
-- Need to ensure consistency in how socioeconomic factors affect magical perception across all scenes
+- Scene turns need strengthening to create more dramatic value shifts
+- Elemental genres need more specific emotional payoffs
+- Socioeconomic dimensions need more explicit integration in player choices
 - Need to balance systemic worldbuilding exposition with narrative pacing
-- Need to implement the new variables in the variables.ink file
 - Need to update scene files to reflect the enhanced worldbuilding
+- Need to ensure consistency in how socioeconomic factors affect magical perception across all scenes
+
+## Elemental Genre Implementation Status
+
+### Mystery Track
+- **Core Emotion:** Curiosity
+- **Current Status:** Basic investigation structure implemented
+- **Needed Improvements:** 
+  - Add hypothesis formation and testing
+  - Create red herrings and false leads
+  - Add progressive revelations
+  - Implement "detective's gambit" moments
+
+### Wonder Track
+- **Core Emotion:** Awe/Intellectual Fascination
+- **Current Status:** Theoretical framework established
+- **Needed Improvements:**
+  - Create dramatic breakthrough moments
+  - Add direct experiences of ancient magic
+  - Enhance contrast between magical systems
+  - Implement "eureka" revelations
+
+### Ensemble Track
+- **Core Emotion:** Belonging/Collective Achievement
+- **Current Status:** Initial team-building options created
+- **Needed Improvements:**
+  - Add solo failure moments
+  - Showcase complementary skill demonstrations
+  - Create trust-building challenges
+  - Implement collective achievement moments
+
+### Adventure Track
+- **Core Emotion:** Excitement/Danger
+- **Current Status:** Location selection options implemented
+- **Needed Improvements:**
+  - Add physical danger moments
+  - Enhance sensory descriptions
+  - Create narrow escape sequences
+  - Implement environmental challenges

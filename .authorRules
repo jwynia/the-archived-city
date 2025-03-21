@@ -66,6 +66,99 @@
   - Place utility functions in the `utils/` directory
   - Use INCLUDE statements in main.ink to bring everything together
 
+## Elemental Genre Implementation
+
+- **Mystery Elements:**
+  - Create intellectual puzzles that build curiosity
+  - Establish clear clues and red herrings
+  - Include hypothesis formation and testing
+  - Provide satisfying revelations that recontextualize earlier information
+  - Use progressive disclosure to maintain curiosity
+  - Ensure each revelation raises new questions
+
+- **Wonder/Idea Elements:**
+  - Create moments of awe through magical discoveries
+  - Build intellectual fascination through theoretical development
+  - Include breakthrough moments where understanding transforms
+  - Contrast different magical approaches to highlight uniqueness
+  - Use sensory descriptions to convey the experience of wonder
+  - Show the protagonist's emotional reaction to discoveries
+
+- **Ensemble Elements:**
+  - Demonstrate the value of diverse perspectives
+  - Show how collective action succeeds where individuals fail
+  - Create interpersonal tensions that must be resolved
+  - Develop trust-building moments between characters
+  - Balance individual character development with group dynamics
+  - Create moments where each team member contributes uniquely
+
+- **Adventure Elements:**
+  - Create physical challenges and environmental obstacles
+  - Use vivid sensory descriptions for immersion
+  - Establish clear stakes and dangers
+  - Include narrow escapes and moments of physical triumph
+  - Balance planning with unexpected complications
+  - Create escalating physical challenges
+
+- **Issue Elements:**
+  - Present complex societal problems without easy solutions
+  - Show multiple perspectives on systemic issues
+  - Create moments of moral clarity amid complexity
+  - Balance idealism with practical constraints
+  - Show consequences of challenging power structures
+  - Create opportunities for coalition-building across differences
+
+- **Drama Elements:**
+  - Focus on internal conflicts and personal growth
+  - Create moments of self-discovery and identity questioning
+  - Show how external events trigger internal transformation
+  - Develop meaningful relationships that challenge the protagonist
+  - Create emotional payoffs for personal revelations
+  - Balance external plot with internal journey
+
+## Scene Turn Structure
+
+- **Value Shift Requirement:** Every scene must shift value from positive to negative or vice versa
+- **Opening State:** Clearly establish the protagonist's initial emotional/situational value
+- **Inciting Incident:** Introduce a complication or opportunity that disrupts the status quo
+- **Progressive Complications:** Escalate challenges or revelations that force the protagonist to adapt
+- **Crisis Decision:** Present a dilemma that forces a choice (best bad choice or irreconcilable goods)
+- **Climax:** Show the protagonist's action based on their decision
+- **Resolution:** Reveal the new value state (which should be opposite from the opening)
+
+- **Mystery Scene Turns:**
+  - Ignorance → Knowledge
+  - Confusion → Clarity
+  - False lead → True insight
+  - Partial understanding → Complete picture
+
+- **Wonder Scene Turns:**
+  - Confusion → Understanding
+  - Theory → Practical application
+  - Limitation → Breakthrough
+  - Mundane → Magical
+
+- **Ensemble Scene Turns:**
+  - Individual → Collective
+  - Distrust → Trust
+  - Conflict → Cooperation
+  - Weakness → Combined strength
+
+- **Adventure Scene Turns:**
+  - Safety → Danger
+  - Trapped → Escape
+  - Pursuit → Evasion
+  - Confrontation → Victory/defeat
+
+## Socioeconomic Integration
+
+- **Class-Specific Reactions:** Include different reactions to the same events based on socioeconomic background
+- **Resource Access Variations:** Show how access to magical resources varies by class
+- **Knowledge Disparities:** Demonstrate how different classes have different types of magical knowledge
+- **Power Structure Visibility:** Make power structures more visible in higher-stakes scenes
+- **Economic Consequences:** Show the economic impacts of magical decisions
+- **Class Mobility Themes:** Explore how magic creates opportunities for or barriers to class mobility
+
 ## Narrative Techniques
 - **Scene transition approaches:** Begin new scenes with a sensory detail that establishes atmosphere, followed by location context.
 - **Information revelation patterns:** Layer information, starting with observable details, then adding context, then revealing significance.
