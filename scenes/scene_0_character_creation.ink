@@ -3,57 +3,75 @@
 // ===================================
 
 === scene_0_character_creation ===
-# The Archived City
+# THE ARCHIVED CITY
 
-Welcome to the City of Nexus, where magic flows through the streets like electricity, regulated by the Concordat and documented by the Chroniclers. Before your story begins, let's establish who you are in this world of controlled enchantment and hidden mysteries.
+Thirty years ago, the world awakened.
 
--> character_name
+Magic returned to the modern world in a global event that transformed society overnight. Or so the official history claims.
 
-=== character_name ===
-What is your first name?
-+ [Enter your name] -> input_first_name
+In Nexus City, reality exists in layers. The mundane world that most citizens perceive. The Sanctioned Veil of regulated enchantments and licensed spellcraft. And something older, hidden beneath both—a magic that whispers through ancient stones and forgotten pathways.
 
-=== input_first_name ===
-~ temp input = ""
-+ [Write your name...] -> name_written(input)
+As a Chronicler, you're one of the rare few trained to perceive and record the city's magical infrastructure. Your enchanted stylus captures what others cannot see: wards protecting bank vaults, healing charms in hospital walls, communication spells linking government offices. Your records become the official truth.
 
-=== name_written(name) ===
-~ player_name = name
-Your name is {player_name}.
-+ [That's right] -> character_surname
-+ [No, I want to change it] -> input_first_name
+But lately, your perception has been catching... inconsistencies. Magical patterns that match no known tradition. Enchantments that shouldn't exist. Whispers of a "First Veil" that predates the Awakening itself.
 
-=== character_surname ===
-And your surname?
-+ [Enter your surname] -> input_surname
+What you discover next will force you to question everything—the history of magic, the nature of reality, and your place within a city where truth itself might be the most carefully constructed illusion of all.
 
-=== input_surname ===
-~ temp input = ""
-+ [Write your surname...] -> surname_written(input)
+-> character_selection
 
-=== surname_written(surname) ===
-~ player_surname = surname
-Your full name is {player_name} {player_surname}.
-+ [That's right] -> character_pronouns
-+ [No, I want to change it] -> input_surname
+=== character_selection ===
+## CHOOSE YOUR CHRONICLER
 
-=== character_pronouns ===
-Which pronouns do you use?
-+ [He/Him/His] 
-    ~ player_pronoun_subject = "he"
-    ~ player_pronoun_object = "him"
-    ~ player_pronoun_possessive = "his"
-    -> character_background
-+ [She/Her/Her] 
-    ~ player_pronoun_subject = "she"
-    ~ player_pronoun_object = "her"
-    ~ player_pronoun_possessive = "her"
-    -> character_background
-+ [They/Them/Their] 
++ [MARINER VOSS] 
+    ~ player_name = "Mariner"
+    ~ player_surname = "Voss"
     ~ player_pronoun_subject = "they"
     ~ player_pronoun_object = "them"
     ~ player_pronoun_possessive = "their"
-    -> character_background
+    ~ player_title = "Field Chronicler"
+    
+    Former naval officer whose shipboard service was interrupted by sudden magical aptitude. Disciplined and methodical, with connections to maritime commerce and an outsider's perspective on Nexus City's magical establishment.
+    -> character_confirmation
+
++ [ELIZA THORNE] 
+    ~ player_name = "Eliza"
+    ~ player_surname = "Thorne"
+    ~ player_pronoun_subject = "she"
+    ~ player_pronoun_object = "her"
+    ~ player_pronoun_possessive = "her"
+    ~ player_title = "Associate Chronicler"
+    
+    Third-generation Chronicler from a respected magical family. Raised with the expectation of maintaining the system, now troubled by discoveries that challenge her family's legacy and her own carefully constructed identity.
+    -> character_confirmation
+
++ [ASH REEVE] 
+    ~ player_name = "Ash"
+    ~ player_surname = "Reeve"
+    ~ player_pronoun_subject = "they"
+    ~ player_pronoun_object = "them"
+    ~ player_pronoun_possessive = "their"
+    ~ player_title = "Junior Chronicler"
+    
+    Self-taught magical practitioner from the city's underprivileged Eastern Ward. Recruited to the Chroniclers for your unusually strong perception abilities, navigating a system designed to exclude people from your background.
+    -> character_confirmation
+
++ [CIPHER WHITLOCK] 
+    ~ player_name = "Cipher"
+    ~ player_surname = "Whitlock"
+    ~ player_pronoun_subject = "he"
+    ~ player_pronoun_object = "him"
+    ~ player_pronoun_possessive = "his"
+    ~ player_title = "Research Chronicler"
+    
+    Former data analyst whose logical approach to magic has made you both valued and viewed with suspicion. Your pattern-recognition abilities exceed your magical talent, letting you see connections others miss.
+    -> character_confirmation
+
+=== character_confirmation ===
+You have chosen to play as {player_name} {player_surname}.
+
+*Choose your path through a city where reality itself is contested territory, and the true power may lie not in casting spells, but in controlling the stories we tell about them.*
+
++ [Begin your journey] -> character_background
 
 === character_background ===
 As a Chronicler for the Concordat, you document and regulate magical phenomena throughout the City of Nexus. But your background shapes how you approach this role.
