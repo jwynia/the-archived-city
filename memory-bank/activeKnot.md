@@ -62,12 +62,12 @@
 - **Approach:** Magical theory and experimentation
 - **Key Scenes:**
   - Scene 4W: Magical Properties (Theoretical development)
-  - Scene 5W: [To be implemented] (Experimental testing)
+  - Scene 5W: Experimental Testing (Direct experience with ancient magic)
   - Scene 6W: [To be implemented] (Breakthrough discovery)
 - **Socioeconomic Lens:** How access to magical education creates privilege
 - **Scene Turn Focus:** From theoretical understanding to practical insight
-- **Status:** Scene 4W implemented, Scenes 5W-6W to be developed
-- **Development Priority:** High (Next to implement)
+- **Status:** Scenes 4W-5W implemented, Scene 6W to be developed
+- **Development Priority:** Medium (Scene 6W)
 
 ### Ensemble Track
 - **Core Emotion:** Belonging/Collective Achievement
@@ -112,22 +112,22 @@
 
 ## Next Development Focus
 
-### Scene 5W: Experimental Testing (Wonder Track) - Highest Priority
+### Scene 6W: Breakthrough Discovery (Wonder Track)
 - **Core Emotion:** Awe/Intellectual Fascination
-- **Opening Value:** Initial success (positive)
-- **Inciting Incident:** Unexpected complication in testing
-- **Progressive Complications:** Increasing difficulty in reconciling theory with practice
-- **Crisis Decision:** Whether to abandon theoretical framework or adapt it
-- **Climax:** Adaptation of approach leading to partial success
-- **Resolution:** Unexpected complication (negative)
+- **Opening Value:** Uncertainty and concern (negative)
+- **Inciting Incident:** Discovery of a new approach to the problem
+- **Progressive Complications:** Increasing risk as the approach develops
+- **Crisis Decision:** Whether to fully commit to the new understanding
+- **Climax:** Breakthrough moment that transforms understanding
+- **Resolution:** New insight that changes perspective (positive)
 - **Key Elements to Implement:**
-  - Direct experience with ancient magic
-  - Contrast between magical systems
-  - Socioeconomic factors affecting access to resources
-  - Sensory descriptions that evoke wonder
-  - Connection to the broader truth about the Veil
+  - Major "eureka" moment
+  - Integration of knowledge from different approaches
+  - Realization about the Concordat's deliberate limitations
+  - Connection to the First Truth revelation
+  - Preparation for convergence with other tracks
 
-### Scenes 5E and 6E: Team Building and Collective Discovery (Ensemble Track)
+### Scenes 5E and 6E: Team Building and Collective Discovery (Ensemble Track) - Highest Priority
 - **Core Emotion:** Belonging/Collective Achievement
 - **Opening Value:** Initial team formation (positive)
 - **Inciting Incident:** Internal conflict or challenge to the team

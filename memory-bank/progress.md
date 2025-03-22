@@ -115,7 +115,7 @@
 
 ## In Progress
 - Completion of the remaining genre tracks (Wonder/Idea, Ensemble, Adventure)
-  - Wonder Track: Implementing Scene 5W (Experimental Testing) and Scene 6W (Breakthrough Discovery)
+  - Wonder Track: Implementing Scene 6W (Breakthrough Discovery)
   - Ensemble Track: Implementing Scene 5E (Team Challenges) and Scene 6E (Collective Discovery)
   - Adventure Track: Implementing Scene 5A (Infiltration) and Scene 6A (Discovery and Escape)
 - Strengthening scene turns in all existing content
@@ -124,6 +124,9 @@
 
 ## Next Steps (Prioritized)
 1. Complete the remaining genre tracks through Scene 6
+   - Implement Scene 5E (Team Challenges) for the Ensemble Track as highest priority
+   - Complete Scene 6W (Breakthrough Discovery) for the Wonder Track
+   - Implement Scenes 5A-6A for the Adventure Track
    - Ensure each scene has a clear value shift
    - Add progressive complications before resolutions
    - Create dramatic turning points with higher stakes
@@ -173,12 +176,16 @@
 
 ### Wonder Track
 - **Core Emotion:** Awe/Intellectual Fascination
-- **Current Status:** Scene 4W implemented, Scenes 5W-6W to be developed
+- **Current Status:** Scenes 4W-5W implemented, Scene 6W to be developed
+- **Implemented Elements:**
+  - Direct experiences of ancient magic in Scene 5W
+  - Contrast between magical systems
+  - Sensory descriptions that evoke wonder
+  - Connection to entities beyond the Veil
 - **Needed Improvements:**
-  - Create dramatic breakthrough moments
-  - Add direct experiences of ancient magic
-  - Enhance contrast between magical systems
-  - Implement "eureka" revelations
+  - Create dramatic breakthrough moment in Scene 6W
+  - Implement "eureka" revelation that ties to the First Truth
+  - Strengthen connection to the broader narrative
 
 ### Ensemble Track
 - **Core Emotion:** Belonging/Collective Achievement
