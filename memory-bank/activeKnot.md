@@ -92,26 +92,27 @@
 - **Scene Turn Focus:** From planning to active infiltration
 - **Status:** Scene 4A implemented, Scenes 5A-6A to be developed
 - **Development Priority:** Medium
-## Next Development Focus
+## Completed Development
 
 ### Character Integration
-- **Priority:** High
-- **Description:** Update existing scenes to reference player name, title, and pronouns
+- **Status:** Completed
+- **Description:** Updated existing scenes to reference player name, title, and pronouns
 - **Affected Files:**
   - scenes/scene_1.ink
   - scenes/scene_2.ink
   - scenes/scene_3.ink
-  - tracks/mystery_track.ink
   - tracks/wonder_track.ink
   - tracks/ensemble_track.ink
   - tracks/adventure_track.ink
-- **Implementation Approach:**
-  - Replace generic "you" references with personalized references where appropriate
-  - Add character-specific reactions based on background variables
-  - Ensure consistent use of chosen pronouns throughout
-  - Add title-specific dialogue variations for NPCs
+- **Implementation Details:**
+  - Replaced generic "you" references with personalized references using player variables
+  - Ensured consistent use of chosen pronouns throughout
+  - Added title-specific dialogue variations where appropriate
+  - Maintained narrative flow while personalizing the experience
 
-### Scene 5W: Experimental Testing (Wonder Track)
+## Next Development Focus
+
+### Scene 5W: Experimental Testing (Wonder Track) - Highest Priority
 - **Core Emotion:** Awe/Intellectual Fascination
 - **Opening Value:** Initial success (positive)
 - **Inciting Incident:** Unexpected complication in testing
@@ -126,7 +127,37 @@
   - Sensory descriptions that evoke wonder
   - Connection to the broader truth about the Veil
 
-### Scene 7: The First Truth (Convergence)
+### Scenes 5E and 6E: Team Building and Collective Discovery (Ensemble Track)
+- **Core Emotion:** Belonging/Collective Achievement
+- **Opening Value:** Initial team formation (positive)
+- **Inciting Incident:** Internal conflict or challenge to the team
+- **Progressive Complications:** Increasing difficulty in working together
+- **Crisis Decision:** Whether to continue as a team or separate
+- **Climax:** Collective action that demonstrates team strength
+- **Resolution:** Unified purpose (positive)
+- **Key Elements to Implement:**
+  - Solo failure moments that demonstrate need for others
+  - Complementary skill demonstrations
+  - Trust-building challenges
+  - Collective achievement moments
+  - Socioeconomic factors affecting team dynamics
+
+### Scenes 5A and 6A: Infiltration and Discovery (Adventure Track)
+- **Core Emotion:** Excitement/Danger
+- **Opening Value:** Initial success (positive)
+- **Inciting Incident:** Discovery or pursuit
+- **Progressive Complications:** Increasing danger
+- **Crisis Decision:** Face danger or retreat
+- **Climax:** Escape or confrontation
+- **Resolution:** Discovery with new information (positive)
+- **Key Elements to Implement:**
+  - Physical danger moments
+  - Vivid sensory descriptions
+  - Narrow escapes
+  - Environmental challenges
+  - Class-specific approaches to physical obstacles
+
+### Scene 7: The First Truth (Convergence) - Final Priority
 - **Core Emotion:** Revelation/Disillusionment
 - **Opening Value:** Partial understanding (positive)
 - **Turn:** Discovery of deliberate deception (negative)

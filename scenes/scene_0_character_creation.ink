@@ -17,6 +17,8 @@ But lately, your perception has been catching... inconsistencies. Magical patter
 
 What you discover next will force you to question everything—the history of magic, the nature of reality, and your place within a city where truth itself might be the most carefully constructed illusion of all.
 
+Choose one of the character profiles to be as you take on the role of Chronicaler.
+
 -> character_selection
 
 === character_selection ===

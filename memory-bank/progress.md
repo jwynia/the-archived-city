@@ -105,20 +105,25 @@
 - Analyzed current implementation for elemental genre effectiveness and scene turns
 - Updated variables.ink to include all planned variables from variables.md
 - Updated activeKnot.md to focus on Scene 4 and the genre tracks
+- Updated existing scenes to reference player name, title, and pronouns:
+    - Modified scenes/scene_1.ink to use player variables
+    - Modified scenes/scene_2.ink to use player variables
+    - Modified scenes/scene_3.ink to use player variables
+    - Modified tracks/wonder_track.ink to use player variables
+    - Modified tracks/ensemble_track.ink to use player variables
+    - Modified tracks/adventure_track.ink to use player variables
 
 ## In Progress
 - Completion of the remaining genre tracks (Wonder/Idea, Ensemble, Adventure)
-  - Wonder Track: Creating breakthrough moments and direct experiences of ancient magic
-  - Ensemble Track: Adding failure moments and showcasing complementary team skills
-  - Adventure Track: Increasing physical danger and adding vivid sensory descriptions
+  - Wonder Track: Implementing Scene 5W (Experimental Testing) and Scene 6W (Breakthrough Discovery)
+  - Ensemble Track: Implementing Scene 5E (Team Challenges) and Scene 6E (Collective Discovery)
+  - Adventure Track: Implementing Scene 5A (Infiltration) and Scene 6A (Discovery and Escape)
 - Strengthening scene turns in all existing content
 - Development of protagonist customization options based on socioeconomic background
 - Expansion of NPC response patterns based on player choices and social context
 
 ## Next Steps (Prioritized)
-1. Update existing scenes to reference player name, title, and pronouns
-
-2. Complete the remaining genre tracks through Scene 6
+1. Complete the remaining genre tracks through Scene 6
    - Ensure each scene has a clear value shift
    - Add progressive complications before resolutions
    - Create dramatic turning points with higher stakes
@@ -168,7 +173,7 @@
 
 ### Wonder Track
 - **Core Emotion:** Awe/Intellectual Fascination
-- **Current Status:** Theoretical framework established
+- **Current Status:** Scene 4W implemented, Scenes 5W-6W to be developed
 - **Needed Improvements:**
   - Create dramatic breakthrough moments
   - Add direct experiences of ancient magic
@@ -177,7 +182,7 @@
 
 ### Ensemble Track
 - **Core Emotion:** Belonging/Collective Achievement
-- **Current Status:** Initial team-building options created
+- **Current Status:** Scene 4E implemented, Scenes 5E-6E to be developed
 - **Needed Improvements:**
   - Add solo failure moments
   - Showcase complementary skill demonstrations
@@ -186,7 +191,7 @@
 
 ### Adventure Track
 - **Core Emotion:** Excitement/Danger
-- **Current Status:** Location selection options implemented
+- **Current Status:** Scene 4A implemented, Scenes 5A-6A to be developed
 - **Needed Improvements:**
   - Add physical danger moments
   - Enhance sensory descriptions
