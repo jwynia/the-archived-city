@@ -74,11 +74,11 @@
 - **Approach:** Building a team with diverse perspectives
 - **Key Scenes:**
   - Scene 4E: Seeing Eyes (Initial recruitment)
-  - Scene 5E: [To be implemented] (Team challenges)
+  - Scene 5E: Team Challenges (Resolving internal conflicts)
   - Scene 6E: [To be implemented] (Collective discovery)
 - **Socioeconomic Lens:** How communities overcome resource limitations through cooperation
 - **Scene Turn Focus:** From individual investigation to collective action
-- **Status:** Scene 4E implemented, Scenes 5E-6E to be developed
+- **Status:** Scenes 4E-5E implemented, Scene 6E to be developed
 - **Development Priority:** Medium
 
 ### Adventure Track
@@ -112,7 +112,7 @@
 
 ## Next Development Focus
 
-### Scene 6W: Breakthrough Discovery (Wonder Track)
+### Scene 6W: Breakthrough Discovery (Wonder Track) - Highest Priority
 - **Core Emotion:** Awe/Intellectual Fascination
 - **Opening Value:** Uncertainty and concern (negative)
 - **Inciting Incident:** Discovery of a new approach to the problem
@@ -127,20 +127,20 @@
   - Connection to the First Truth revelation
   - Preparation for convergence with other tracks
 
-### Scenes 5E and 6E: Team Building and Collective Discovery (Ensemble Track) - Highest Priority
+### Scene 6E: Collective Discovery (Ensemble Track)
 - **Core Emotion:** Belonging/Collective Achievement
-- **Opening Value:** Initial team formation (positive)
-- **Inciting Incident:** Internal conflict or challenge to the team
-- **Progressive Complications:** Increasing difficulty in working together
-- **Crisis Decision:** Whether to continue as a team or separate
-- **Climax:** Collective action that demonstrates team strength
-- **Resolution:** Unified purpose (positive)
+- **Opening Value:** Resolved internal conflicts (neutral)
+- **Inciting Incident:** Discovery of significant pattern evidence
+- **Progressive Complications:** External pressure or threat to the team
+- **Crisis Decision:** How to use their collective knowledge
+- **Climax:** Unified action that demonstrates team strength
+- **Resolution:** Shared achievement and purpose (positive)
 - **Key Elements to Implement:**
-  - Solo failure moments that demonstrate need for others
   - Complementary skill demonstrations
-  - Trust-building challenges
   - Collective achievement moments
-  - Socioeconomic factors affecting team dynamics
+  - Integration of diverse perspectives into cohesive understanding
+  - Team-based approach to ancient magic
+  - Socioeconomic factors affecting knowledge sharing
 
 ### Scenes 5A and 6A: Infiltration and Discovery (Adventure Track)
 - **Core Emotion:** Excitement/Danger
